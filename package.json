@@ -1,0 +1,25 @@
+{
+  "name": "masn1600",
+  "version": "1.0.0",
+  "description": "Ma student newspaper",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MASN1600/privateRepo.git"
+  },
+  "author": "Ghaltryyl",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MASN1600/privateRepo/issues"
+  },
+  "homepage": "https://github.com/MASN1600/privateRepo#readme",
+  "dependencies": {
+    "prettier": "^2.5.0",
+    "react": "^17.0.2",
+    "sass": "^1.44.0",
+    "typescript": "^4.5.2"
+  }
+}
