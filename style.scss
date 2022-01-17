@@ -38,7 +38,7 @@
             color: lightgrey;
         }
         a:visited {
-            color: lightgrey;
+            color: darkgray;
         }
 
         .dropContent {
@@ -64,8 +64,11 @@
 
 }
 .test {
-    margin-bottom: 500em;
+    margin-bottom: 50em;
     background-color: darkgray;
+    padding-left: 100em;
 }
-
+.p {
+    font-family: Arial, serif;
+  }
 
