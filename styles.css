@@ -69,6 +69,10 @@ a:active {
         list-style-type: none;
         
       }
+      .header .list .dropContent .past .li {
+        margin-top: 1px;
+        
+      }
     .header .list .menu:hover .dropContent {
       display: block; }
 
