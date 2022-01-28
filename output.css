@@ -70,9 +70,15 @@ a:active {
   margin-bottom: 500em;
   background-color: darkgray; }
 
-.article-paragraph {
+.article-body {
   font-family:Arial, Helvetica, sans-serif
+}
+.article-title {
+  margin: 40px 20px 15px;
+}
 
+.article-paragraph {
+  margin: 20px
 } 
 .button {
   background-color: #4CAF50;
