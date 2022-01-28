@@ -47,9 +47,13 @@ a:active {
     vertical-align: middle;
     color: lightgrey; }
     .header .list a:link {
-      color: lightgrey; }
+      color: lightgrey;
+      text-decoration: none;
+    }
     .header .list a:visited {
-      color: lightgrey; }
+      color: lightgrey;
+      text-decoration: none;
+    }
     .header .list .dropContent {
       list-style-type: none;
       display: none;
@@ -57,7 +61,7 @@ a:active {
       z-index: 1;
       background-color: black;
       min-width: 160px;
-      width: 200px;
+      width: 300px;
       box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
       padding: 12px 16px; }
       .header .list .dropContent .past {
@@ -74,7 +78,7 @@ a:active {
   font-family:Arial, Helvetica, sans-serif
 }
 .article-title {
-  margin: 40px 20px 15px;
+  margin: 80px 20px 15px;
 }
 
 .article-paragraph {
