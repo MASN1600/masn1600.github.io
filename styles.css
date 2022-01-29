@@ -2,7 +2,7 @@ a:link {
   text-decoration: none;
 }
 a:visited {
-  color:white; 
+  color: none; 
   text-decoration: none;
 }
 a:hover {
@@ -10,7 +10,7 @@ a:hover {
   text-decoration: none;
 }
 a:active {
-  color:white;
+  color: none;
   text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ a:active {
 }
 .article-paragraph {
   margin: 20px;
-  width: 80%;
+  width: 75%;
   font-size: 18px;
 
 } 
