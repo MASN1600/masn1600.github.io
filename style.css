@@ -1,0 +1,112 @@
+* {
+  padding: 0em;
+  border: 0em;
+  margin: 0em; }
+
+.header {
+  position: fixed;
+  width: 100%;
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  padding-left: 2.7em;
+  background-color: black;
+  color: white; }
+  .header .hText {
+    padding-left: 0.5em;
+    display: inline-block;
+    font-size: 1.5em;
+    align-content: left;
+    vertical-align: middle; }
+  .header .logo {
+    max-width: 2em;
+    max-height: 2em;
+    vertical-align: middle; }
+  .header .list {
+    align-content: center;
+    display: inline-flex;
+    gap: 1em;
+    padding: 0.5em;
+    list-style-type: none;
+    font-size: 1.3em;
+    vertical-align: middle;
+    color: lightgrey; }
+    .header .list a:link {
+      color: lightgrey; }
+    .header .list a:visited {
+      color: darkgray; }
+    .header .list .dropContent {
+      list-style-type: none;
+      display: none;
+      position: absolute;
+      z-index: 1;
+      background-color: black;
+      min-width: 160px;
+      width: 200px;
+      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+      padding: 12px 16px; }
+      .header .list .dropContent .past {
+        padding-left: 1em;
+        list-style-type: none; }
+    .header .list .menu:hover .dropContent {
+      display: block; }
+
+.test {
+  margin-bottom: 50em;
+  background-color: darkgray;
+  padding-left: 100em; }
+
+.p {
+  font-family: Arial, serif; }
+
+a:link {
+  text-decoration: none; }
+
+a:visited {
+  color: none;
+  text-decoration: none; }
+
+a:hover {
+  color: blue;
+  text-decoration: none; }
+
+a:active {
+  color: none;
+  text-decoration: none; }
+
+.article-body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18; }
+
+.article-title {
+  margin: 0px 20px 15px;
+  width: 80%;
+  font-size: 26; }
+
+.article-header {
+  margin: 10px 20px 15px;
+  width: 80%; }
+
+.article-paragraph {
+  margin: 20px;
+  width: 75%;
+  font-size: 18px; }
+
+.article-list {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  width: 75%;
+  font-size: 18px; }
+
+.article-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-bottom: 5px; }
+
+.article-image-caption {
+  text-align: center;
+  font-size: 16;
+  margin-bottom: 5px; }
+
+/*# sourceMappingURL=style.css.map */

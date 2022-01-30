@@ -72,3 +72,61 @@
     font-family: Arial, serif;
   }
 
+a:link {
+  text-decoration: none;
+}
+a:visited {
+  color: none; 
+  text-decoration: none;
+}
+a:hover {
+  color:blue;
+  text-decoration: none;
+}
+a:active {
+  color: none;
+  text-decoration: none;
+}
+
+
+
+
+.article-body {
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 18;
+}
+.article-title {
+  margin: 0px 20px 15px;
+  width: 80%;
+  font-size: 26;
+}
+.article-header {
+  margin: 10px 20px 15px;
+  width: 80%;
+  
+}
+.article-paragraph {
+  margin: 20px;
+  width: 75%;
+  font-size: 18px;
+
+} 
+.article-list {
+  margin-left: 20px;
+  margin-bottom: 5px;
+  width: 75%;
+  font-size: 18px;
+  
+}
+.article-image {
+  display: block; margin-left: auto; margin-right: auto; width: 40%;
+  margin-bottom: 5px;
+}
+.article-image-caption {
+  text-align: center; font-size: 16;
+  margin-bottom: 5px;
+}
+
+
+
+
