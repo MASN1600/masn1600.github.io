@@ -41,19 +41,15 @@
       z-index: 1;
       background-color: black;
       min-width: 160px;
-      width: 200px;
-      box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-      padding: 12px 16px; }
+      width: 600px;
+      box-shadow: 16px 30px 10px 10px rgba(0, 0, 0, 0.2);
+      padding: 24px 16px; }
       .header .list .dropContent .past {
         padding-left: 1em;
         list-style-type: none; }
     .header .list .menu:hover .dropContent {
       display: block; }
 
-.test {
-  margin-bottom: 50em;
-  background-color: darkgray;
-  padding-left: 100em; }
 
 .p {
   font-family: Arial, serif; }
