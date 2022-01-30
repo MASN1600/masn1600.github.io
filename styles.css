@@ -100,6 +100,12 @@ a:active {
   font-size: 18px;
 
 } 
+.article-title {
+  margin-left: 20px;
+  margin-bottom: 10px;
+  width: 75%;
+  
+}
 .button {
   background-color: #4CAF50;
   border: none;
