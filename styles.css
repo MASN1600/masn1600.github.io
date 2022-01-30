@@ -86,13 +86,18 @@ a:active {
 .article-paragraph {
   margin: 20px;
   width: 75%;
-  font-size: 18px; }
+  font-size: 18px;
+  line-height: 1.5em;
+
+ }
 
 .article-list {
   margin-left: 20px;
   margin-bottom: 5px;
   width: 75%;
-  font-size: 18px; }
+  font-size: 18px; 
+  line-height: 1.5em;
+}
 
 .article-image {
   display: block;
@@ -106,4 +111,4 @@ a:active {
   font-size: 16;
   margin-bottom: 5px; }
 
-/*# sourceMappingURL=styles.css.map */
+/* sourceMappingURL=styles.css.map */
