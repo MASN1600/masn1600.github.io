@@ -76,7 +76,7 @@ a:active {
 .article-body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18;
-  padding-top: 2em; }
+  margin-top: 5em; }
 
 .article-title {
   margin: 0px 20px 15px;
