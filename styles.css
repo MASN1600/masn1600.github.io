@@ -109,9 +109,11 @@ a:active {
 }
 .article-image {
   display: block; margin-left: auto; margin-right: auto; width: 40%;
+  margin-bottom: 5px;
 }
 .article-image-caption {
   text-align: center; font-size: 16;
+  margin-bottom: 5px;
 }
 .button {
   background-color: #4CAF50;
