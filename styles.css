@@ -100,11 +100,11 @@ a:active {
   font-size: 18px;
 
 } 
-.article-title {
+.article-list {
   margin-left: 20px;
   margin-bottom: 10px;
   width: 75%;
-  font-size: 18px
+  font-size: 18px;
   
 }
 .button {
